@@ -1,4 +1,7 @@
+# 💫 About Me:
+👋 Hi, I'm Rajiv!<br>I'm a passionate developer with a focus on web development and API integration. I love creating intuitive and functional web applications using technologies like HTML, CSS, JavaScript, and React. Currently, I’m working on projects involving Indian Railways APIs and weather information systems.<br><br>🚀 What I’m working on:<br><br>Building train information systems with API integrations.<br>Designing weather apps using live data.<br>Exploring new frontiers in web development.<br>Check out my projects and let's connect to build something innovative!
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ra.j.iv_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajiv-dubey-7410a5290) 
 
