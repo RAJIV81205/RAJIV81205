@@ -1,5 +1,20 @@
 # 💫 About Me:
-**👋 Hi, I'm Rajiv!** <br>I'm a passionate developer with a focus on web development and API integration. I love creating intuitive and functional web applications using technologies like HTML, CSS, JavaScript, and React. Currently, I’m working on projects involving Indian Railways APIs and weather information systems.<br><br> **🚀 What I’m working on:** <br><br>- Building train information systems with API integrations.<br>- Designing weather apps using live data.<br>- Exploring new frontiers in web development.<br>- Check out my projects and let's connect to build something innovative!
+# 👋 Hi, I'm Rajiv!
+
+I'm a passionate **developer** focused on **web development** and **API integration**. I enjoy creating intuitive and functional web applications using technologies like **HTML**, **CSS**, **JavaScript**, and **React**. Currently, I'm working on exciting projects related to **Indian Railways APIs** and **weather information systems**.
+
+---
+
+## 🚀 What I’m Working On:
+- 🚉 **Building train information systems** with API integrations.
+- 🌦️ **Designing weather apps** using live data.
+- 🛠️ **Exploring new frontiers** in web development.
+- 💡 **Check out my projects** and let's connect to build something innovative!
+
+---
+
+Let's collaborate and build amazing things together! 🌟
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🌐 Socials:
