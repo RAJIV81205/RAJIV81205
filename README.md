@@ -5,3 +5,5 @@
 - 📫 How to reach me: lucky81205@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and am always curious about how things work!
+
+![RAJIV81205's Stats](https://github-readme-stats.vercel.app/api?username=RAJIV81205&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
