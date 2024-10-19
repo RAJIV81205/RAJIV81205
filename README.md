@@ -1,7 +1,34 @@
 <div align="center">
 
 # 💫 About Me:
-I’m currently working on:<br><br>Building a weather information webpage using APIs and JavaScript.<br>Enhancing my React skills by integrating real-time data into web applications.<br>Exploring railway data APIs to develop user-friendly features like PNR status and train time tables.<br>I’m looking to collaborate on:<br><br>Frontend web development projects (React, JavaScript).<br>API integration and working with real-time data.<br>Open-source projects related to web applications or data visualization.<br>I’m looking for help with:<br><br>Advanced React and state management techniques.<br>Improving UI/UX design for web apps.<br>Optimizing API calls for better performance.<br>I’m currently learning:<br><br>API development and deployment.<br>Advanced CSS techniques for responsive design.<br>Continuous integration/continuous deployment (CI/CD) workflows.<br>Ask me about:<br><br>Weather API integrations.<br>JavaScript frameworks, particularly React.<br>Creating dynamic web applications with real-time data.<br>Fun fact: I’m a beginner at cooking but passionate about North Indian recipes!<br><br>
+
+### 👨‍💻 I’m currently working on
+- Building a weather information webpage using APIs and JavaScript.
+- Enhancing my React skills by integrating real-time data into web applications.
+- Exploring railway data APIs to develop user-friendly features like PNR status and train time tables.
+
+### 🤝 I’m looking to collaborate on
+- Frontend web development projects (React, JavaScript).
+- API integration and working with real-time data.
+- Open-source projects related to web applications or data visualization.
+
+### 🛠️ I’m looking for help with
+- Advanced React and state management techniques.
+- Improving UI/UX design for web apps.
+- Optimizing API calls for better performance.
+
+### 🌱 I’m currently learning
+- API development and deployment.
+- Advanced CSS techniques for responsive design.
+- Continuous integration/continuous deployment (CI/CD) workflows.
+
+### 💬 Ask me about
+- Weather API integrations.
+- JavaScript frameworks, particularly React.
+- Creating dynamic web applications with real-time data.
+
+### ⚡ Fun fact
+I’m a beginner at cooking but passionate about North Indian recipes!
 
 
 ## 🌐 Socials:
