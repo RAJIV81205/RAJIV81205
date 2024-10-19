@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 💫 About Me:
 
@@ -29,7 +29,7 @@
 
 ### ⚡ Fun fact
 I’m a beginner at cooking but passionate about North Indian recipes!
-
+<div align="center">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/oracle_fcuk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ra.j.iv_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajiv-dubey-7410a5290) 
