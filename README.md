@@ -41,10 +41,6 @@ I enjoy exploring **new APIs** and turning them into **useful applications** �
 
 ---
 
-### 🔥 GitHub Stats  
-![Rajiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAJIV81205&show_icons=true&theme=radical)  
-
-Would you like any additional customization or improvements? 😊
 
 
 
