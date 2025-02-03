@@ -1,5 +1,51 @@
+# 💻 Rajiv Dubey | @RAJIV81205  
 
-# 💻 Rajiv Dubey | @RAJIV81205  <br><br>**🚀 Web Developer | API Integrator | Tech Enthusiast**  <br><br>Welcome to my GitHub! I love building web applications, integrating real-time data, and exploring new technologies. My projects focus on user-friendly interfaces, APIs, and automation.  <br><br>---<br><br>## 👨‍💻 I'm currently working on  <br>- **Easy Rail** – A web app for train schedules, PNR status, live train tracking, and more.  <br>- **Enhancing React skills** – Learning advanced state management and UI improvements.  <br><br>## 🤝 I'm looking to collaborate on  <br>- Frontend web development (React, JavaScript, UI/UX).  <br>- API-based applications (real-time data visualization, automation).  <br>- Open-source projects related to web applications.  <br><br>## 💡 I'm looking for help with  <br>- **Advanced React concepts** – Hooks, Context API, Redux.  <br>- **Optimizing UI/UX** – Better design principles and accessibility.  <br><br>## 🌱 I'm currently learning  <br>- **Backend development** – Improving Node.js and database management with MongoDB.  <br>- **Cloud deployment** – Exploring better hosting solutions for scalability.  <br><br>## 💬 Ask me about  <br>- JavaScript, Node.js, and API integrations.  <br>- Working with railway data APIs (IRCTC, train schedules).  <br>- Web development best practices and project optimization.  <br><br>## ⚡ Fun fact  <br>I enjoy exploring new APIs and turning them into useful applications 🚀.  <br><br>---<br><br>### 📫 Connect with me  <br>- **Portfolio:** [rajiv-dubey.vercel.app](https://rajiv-dubey.vercel.app/)  <br>- **LinkedIn:** [linkedin.com/in/rajiv-dubey-7410a5290](https://www.linkedin.com/in/rajiv-dubey-7410a5290)  <br>- **GitHub:** [github.com/RAJIV81205](https://github.com/RAJIV81205)  <br>- **Instagram:** [@ra.j.iv_](https://instagram.com/ra.j.iv_)  <br><br>---<br><br>Would you like any additional customization or improvements? 😊
+**🚀 Web Developer | API Integrator | Tech Enthusiast**  
+
+Welcome to my GitHub! I love building web applications, integrating real-time data, and exploring new technologies. My projects focus on user-friendly interfaces, APIs, and automation.  
+
+---
+
+## 👨‍💻 I'm currently working on  
+- **[Easy Rail](https://easy-rail.onrender.com/)** – A web app for train schedules, PNR status, live train tracking, and more.  
+- **Enhancing React skills** – Learning advanced state management and UI improvements.  
+
+## 🤝 I'm looking to collaborate on  
+- Frontend web development (**React, JavaScript, UI/UX**).  
+- API-based applications (**real-time data visualization, automation**).  
+- Open-source projects related to web applications.  
+
+## 💡 I'm looking for help with  
+- **Advanced React concepts** – Hooks, Context API, Redux.  
+- **Optimizing UI/UX** – Better design principles and accessibility.  
+
+## 🌱 I'm currently learning  
+- **Backend development** – Improving **Node.js** and database management with **MongoDB**.  
+- **Cloud deployment** – Exploring better hosting solutions for scalability.  
+
+## 💬 Ask me about  
+- **JavaScript, Node.js, and API integrations**.  
+- **Working with railway data APIs (IRCTC, train schedules)**.  
+- **Web development best practices and project optimization**.  
+
+## ⚡ Fun fact  
+I enjoy exploring **new APIs** and turning them into **useful applications** 🚀.  
+
+---
+
+### 📫 Connect with me  
+- **🌐 Portfolio:** [rajiv-dubey.vercel.app](https://rajiv-dubey.vercel.app/)  
+- **💼 LinkedIn:** [linkedin.com/in/rajiv-dubey-7410a5290](https://www.linkedin.com/in/rajiv-dubey-7410a5290)  
+- **🐙 GitHub:** [github.com/RAJIV81205](https://github.com/RAJIV81205)  
+- **📷 Instagram:** [@ra.j.iv_](https://instagram.com/ra.j.iv_)  
+
+---
+
+### 🔥 GitHub Stats  
+![Rajiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAJIV81205&show_icons=true&theme=radical)  
+
+Would you like any additional customization or improvements? 😊
+
 
 
 ## 🌐 Socials:
