@@ -35,7 +35,7 @@ I enjoy exploring **new APIs** and turning them into **useful applications** �
 
 ### 📫 Connect with me  
 - **🌐 Portfolio:** [rajiv-dubey.vercel.app](https://rajiv-dubey.vercel.app/)  
-- **💼 LinkedIn:** [linkedin.com/in/rajiv-dubey-7410a5290](https://www.linkedin.com/in/rajiv-dubey-7410a5290)  
+- **💼 LinkedIn:** [linkedin.com/in/rajiv-dubey-7410a5290](https://www.linkedin.com/in/rajiv81205)  
 - **🐙 GitHub:** [github.com/RAJIV81205](https://github.com/RAJIV81205)  
 - **📷 Instagram:** [@ra.j.iv_](https://instagram.com/ra.j.iv_)  
 
