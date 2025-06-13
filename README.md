@@ -1,7 +1,9 @@
+<div align="center">
+  
 # Hi there, I'm Rajiv! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+Automation+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+Automation+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+
 </div>
 
 ## 🚀 About Me
@@ -71,34 +73,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-### 🎵 [Sonix - AI Audio Platform](https://github.com/RAJIV81205)
-> Revolutionizing audio processing with AI-powered features
-- **Tech Stack:** Next.js, FastAPI, MongoDB, AI/ML
-- **Features:** Real-time audio processing, AI enhancement, smart analytics
-- 🌟 **Status:** In Development
-
-### 🚄 [Easy-Rail - Smart Railway Assistant](https://github.com/RAJIV81205)
-> Making railway travel seamless with intelligent assistance
-- **Tech Stack:** React, Node.js, PostgreSQL, ML
-- **Features:** Route optimization, real-time tracking, predictive analytics
-- 🤝 **Looking for:** Collaborators
-
----
-
-## 🌐 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajiv81205)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ra.j.iv_)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucky81205@gmail.com)
-
-</div>
-
----
-
 ## 💡 Random Dev Wisdom
 
 <div align="center">
@@ -128,6 +102,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+![github-user-contribution](https://github.com/user-attachments/assets/691e8098-681a-4ca8-b050-c69fd686333b)
