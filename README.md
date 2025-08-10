@@ -102,4 +102,7 @@
 
 ---
 
-![github-user-contribution (3)](https://github.com/user-attachments/assets/60d179eb-6c07-424c-8119-eec11b9c9b3c)
+![GitHub Snake Light](https://raw.githubusercontent.com/RAJIV81205/RAJIV81205/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/RAJIV81205/RAJIV81205/output/github-snake-dark.svg#gh-dark-mode-only)
+
+
