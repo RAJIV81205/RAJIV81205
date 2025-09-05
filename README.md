@@ -7,14 +7,15 @@
 </div>
 
 ## 🚀 About Me
-
-> **Passionate full-stack developer exploring AI, automation, and modern web experiences**
+> **Passionate full-stack developer exploring AI, automation, and decentralized web experiences**
 
 - 🔭 Currently building **[Sonix](https://github.com/RAJIV81205)** – An AI-enhanced audio platform revolutionizing sound processing
 - 👯 Open to collaborate on **[Easy-Rail](https://github.com/RAJIV81205)** – A smart railway assistant making travel seamless
-- 🌱 Mastering **Next.js**, **TypeScript**, and **AI/ML** integration
-- 💬 Let's talk about **Web Apps**, **Backend Architecture**, **FastAPI**, **MongoDB**, or **AI Solutions**
-- ⚡ Fun fact: My best coding breakthroughs happen at 2AM ☕️✨
+- 🌱 Mastering **Next.js**, **TypeScript**, **Solidity**, and **Web3** integration
+- 🔗 Exploring **DeFi protocols**, **Smart Contracts**, and **decentralized applications**
+- 💬 Let's talk about **Web Apps**, **Backend Architecture**, **Smart Contracts**, **DApps**, or **AI Solutions**
+- ⚡ Fun fact: My best coding breakthroughs happen at 2AM, whether it's debugging React or deploying to testnet ☕️✨
+
 
 ---
 
